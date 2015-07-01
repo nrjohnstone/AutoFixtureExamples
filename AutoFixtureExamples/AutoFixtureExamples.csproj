@@ -80,6 +80,12 @@
   </Choose>
   <ItemGroup>
     <Compile Include="EchoClass.cs" />
+    <Compile Include="Example\AllEncompassingLogger.cs" />
+    <Compile Include="Example\OperationContext.cs" />
+    <Compile Include="Example\Repository.cs" />
+    <Compile Include="Example\SomeExternalLibraryWithStatics.cs" />
+    <Compile Include="Example\StaticKlingon.cs" />
+    <Compile Include="Example\StaticKlingonTests.cs" />
     <Compile Include="LocalAddin.cs" />
     <Compile Include="TestDataGenerationExamples.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
