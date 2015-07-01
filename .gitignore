@@ -1,0 +1,6 @@
+*.suo
+.ncrunch*
+*.ncrunch*
+AutoFixtureExamples/obj/
+AutoFixtureExamples/bin/
+AutoFixtureExamples/_NCrunch_AutoFixtureExamples/AutoFixtureExamples.crunchsolution.cache
